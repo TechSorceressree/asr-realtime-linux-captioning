@@ -1,5 +1,6 @@
 # ASR-Based Real-Time Captioning on Linux for DHH Users
-<img alt="This image showcases the user interface of the ASR-based real-time captioning system on Linux. The interface provides a user-friendly experience with customization options for font size, color, and language settings. The system leverages OpenAI Whisper's ASR capabilities to provide accurate and real-time captions for deaf and hard of hearing (DHH) users." src="images/ASR UI.png" width="300"/>
+
+<img alt="This image showcases the user interface of the ASR-based real-time captioning system on Linux. The interface provides a user-friendly experience with customization options for font size, color, and language settings. The system leverages OpenAI Whisper's ASR capabilities to provide accurate and real-time captions for deaf and hard of hearing (DHH) users." src="../images/ASR UI.png" width="300"/>
 
 ## Introduction
 
