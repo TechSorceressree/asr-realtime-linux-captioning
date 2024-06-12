@@ -1,1 +1,0 @@
-# asr-realtime-linux-captioning
